@@ -1,1 +1,2 @@
 ﻿1.test_1是对于char *s的疑问
+2.test_vector是一开始学的时候对vector的测试
